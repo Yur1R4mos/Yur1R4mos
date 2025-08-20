@@ -16,5 +16,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yuri-ramos-5310a6302)
 
 Sempre aprendendo, sempre construindo!
-
-![Snake animation](https://raw.githubusercontent.com/Yur1R4mos/Yur1R4mos/output/github-contribution-grid-snake.svg)
